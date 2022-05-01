@@ -18,7 +18,7 @@
 
 
 
-<p>Para jogar é só <a href="www.google.com">clicar aqui.</a></p>
+<p>Para jogar é só <a href="https://g-aleprojetos.github.io/jogoDaVelhaJavascript/">clicar aqui.</a></p>
 
 <a href="https://pt.wikipedia.org/wiki/Jogo_da_velha">font: wikipedia</a>
 
